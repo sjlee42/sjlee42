@@ -9,8 +9,8 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge//MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge//Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 
 </div>
 
